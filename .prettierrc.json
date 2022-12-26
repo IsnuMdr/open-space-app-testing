@@ -1,5 +1,6 @@
 {
-  "semi": false,
+  "semi": "warn",
   "singleQuote": true,
-  "printWidth": 100
+  "printWidth": 100,
+  "semicollo"
 }
